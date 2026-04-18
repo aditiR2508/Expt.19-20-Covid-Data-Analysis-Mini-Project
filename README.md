@@ -16,8 +16,10 @@
 ## Faculty Incharge: Mrs. Snehal Bhosale
 
 # INTRODUCTION
-### In this data analysis project, we are analyzing global COVID-19 trends to effectively monitor daily case counts, calculate clinical outcomes, and present data through statistical summaries. Various data science principles have been incorporated into this project to enhance information management. Essential libraries such as Pandas and NumPy are utilized to ensure efficient data manipulation and numerical operations.
-### Visual representations and data cleaning techniques are implemented to enhance accuracy and visualization, facilitating informed insights into the pandemic's progression while grouping operations are used to summarize and analyze regional impacts comprehensively. By integrating these tools, the project offers detailed insights into the pandemic's progression, facilitating informed interpretation of global health data.
+### In this data analysis project, we are analyzing global COVID-19 trends to effectively monitor daily case counts, calculate clinical outcomes, and present data through statistical summaries.
+### Various data science principles have been incorporated into this project to enhance information management. Essential libraries such as Pandas and NumPy are utilized to ensure efficient data manipulation and numerical operations.
+### Visual representations and data cleaning techniques are implemented to enhance accuracy and visualization, facilitating informed insights into the pandemic's progression while grouping operations are used to summarize and analyze regional impacts comprehensively.
+### By integrating these tools, the project offers detailed insights into the pandemic's progression, facilitating informed interpretation of global health data.
 
 # OBJECTIVE OF THE PROJECT
 ### 1. Data Cleaning and Preprocessing: To import the COVID-19 dataset and clean it by removing unnecessary columns like 'SNo' and 'Last Update' to focus on core metrics.
